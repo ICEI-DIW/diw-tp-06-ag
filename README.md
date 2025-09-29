@@ -1,4 +1,4 @@
-# Trabalho Prático 05 - Semanas 7 e 8
+# Trabalho Prático 06 - Semanas 7 e 8
 
 **Páginas de detalhes dinâmicas**
 
